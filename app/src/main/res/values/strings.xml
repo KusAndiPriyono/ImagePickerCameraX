@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImagePickerCameraX</string>
+    <string name="preview">Preview Image View</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Galery</string>
+    <string name="captureImage">Capture Image</string>
+    <string name="switchCamera">Switch Camera</string>
+    <string name="results_to_be_shown_here">Results to be shown here</string>
+</resources>
